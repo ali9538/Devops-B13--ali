@@ -1,0 +1,1 @@
+this is branchB file and it is edited in fileA.txt
