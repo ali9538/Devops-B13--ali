@@ -1,1 +1,1 @@
-this is branchA file
+this is branchA file and it is edited in fileA.txt
